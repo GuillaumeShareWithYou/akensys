@@ -1,0 +1,23 @@
+.login-container{
+    position: absolute;
+    .card{
+        .card-header{
+            width: 80px;
+            height: 80px;
+            margin: 0 auto;
+            margin-top: -40px;
+            border-radius: 50%;
+            font-size: 36px;
+        }
+    }
+}
+.login-logoB {
+    font-family: "MoonHouse";
+    font-size: 40px;
+    color: #fff;
+}
+.login-logoR {
+    font-family: "MoonHouse";
+    font-size: 40px;
+    color: #DD1B16;
+}
